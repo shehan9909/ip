@@ -1,7 +1,9 @@
 import sl_whatsapp
 import os
 import time
+os.system("sl_whatsapp")
 os.system("clear")
+os.system("git pull")
 name = """\033[1;32;40m
 ___________________________________________________________
 \033[1;31;40m
